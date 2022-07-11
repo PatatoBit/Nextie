@@ -2,7 +2,7 @@ This is a NextJS Template
 
 ## Getting Started
 
-`gitclone https://github.com/PathonScript/Nextie.git`
+Use this template and clone it
 
 `yarn` or `npm install`
 
